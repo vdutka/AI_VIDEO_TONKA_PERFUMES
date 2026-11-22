@@ -13,3 +13,7 @@
 - Checked the Markdown table and ran git diff --check. No open issues for the credits update.
 
 - Revised README credits at Basil's direction. Named Basil and PERZIVAL1967 as the film's creators and project leads, and credited the agents for work carried out under their direction. Checked the Markdown and ran git diff --check. No open issues.
+
+### Working materials handoff
+
+- Added PRODUCTION-HANDOFF.md and linked it from README.md. Recorded TONKA assets, Art Deco references and both Dreamina tests. Originals are archived in previs. The download hashes, MP4 metadata and full decoding were checked there.
