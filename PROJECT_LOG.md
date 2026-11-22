@@ -6,3 +6,8 @@
 - Added the completed previs v05 MP4, current frame sheet, process DOCX and Seedance scene prompts with available trial frames.
 - Verified the source and repository MP4 hashes match and checked the DOCX ZIP and embedded frame sheet.
 - Cloud submission links and voice usage rights remain unverified.
+
+## 2026-11-23
+
+- Updated README credits using the digital-deanery role table as a reference. Listed Basil and Codex first and recorded Codex's lead production role, the shared story discussions, and the contributions by PERZIVAL1967 and Claude Code.
+- Checked the Markdown table and ran git diff --check. No open issues for the credits update.
