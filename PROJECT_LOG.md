@@ -11,3 +11,5 @@
 
 - Updated README credits using the digital-deanery role table as a reference. Listed Basil and Codex first and recorded Codex's lead production role, the shared story discussions, and the contributions by PERZIVAL1967 and Claude Code.
 - Checked the Markdown table and ran git diff --check. No open issues for the credits update.
+
+- Revised README credits at Basil's direction. Named Basil and PERZIVAL1967 as the film's creators and project leads, and credited the agents for work carried out under their direction. Checked the Markdown and ran git diff --check. No open issues.
