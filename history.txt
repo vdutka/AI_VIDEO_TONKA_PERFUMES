@@ -1,0 +1,971 @@
+COVER
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+01
+Smoky Pomegranate
+A production history of «Пока горит окно», the 35-second TONKA PERFUMES film
+developed for the MGIMO AI Challenge 2026. The history follows the directing
+discussions, the Lovart and Dreamina tests, the Blender work, the illustrated finish, and
+the submission handoff.
+Basil and PERZIVAL1967 conceived and guided the project. Codex carried out most of
+the final production under Basil's direction. Claude Code developed early screenplay and
+generation materials under PERZIVAL1967's direction.
+Contact sheet from the public v05 cut.
+
+REPORT SCOPE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+02
+Which sources tell which part of the
+story
+The Hackathon discussions establish the story and the competition context. The Lovart
+chat records screenings and practical corrections. The Previs chats record what Basil
+wanted the models and animation to do. The Dreamina prompt chat captures the reaction
+to an output that copied the reference too literally. Repository commits identify the files
+actually handed off. This report reads those records together.
+The strongest evidence is a dated instruction paired with a file or a shot review. A chat
+report of an upload, render, or test is attributed as such. A saved prompt establishes what
+was written. It establishes what was submitted only when a further record ties it to the
+generation.
+The corpus covers the relevant material found in this submission chat, the Hackathon
+board and screenplay work, the Codex production chats, and the Dreamina prompt chat.
+It does not cover private messages or deleted chats outside the available records. Source
+notes at the end give titles, paths, and links for checking individual claims.
+Development 03–06 · Generation and previs 07–13 · Controlled animation 14–21 · Finishing
+and assessment 22–26 · Prompt archive 27–38 · Sources 39–41
+
+DEVELOPMENT
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+03
+The commission and the product
+TONKA's Smoky Pomegranate fragrance gave the story an object and a sensory cue.
+The partner bundle included the wordmark in black and white and four product
+photographs. The 220 ml candle became the hero object. The smaller candle and two
+diffusers remained available as references for the range.
+The 220 ml photograph was more useful than the general product description for the
+shot's key details. Studio notes explicitly resolve the discrepancy about the lid in favour of
+the dark burgundy object shown in the photograph. The glass, diamond pattern and
+rectangular brass-coloured label do much of the recognition work at the scale of the
+closing shot.
+A holiday-like tabletop vignette could easily make the film feel interchangeable with other
+candle advertisements. The story instead gives the fruit an action before it gets a product
+association. It changes hands, is lifted and smelled, and remains meaningful when a
+mature woman stands in a different room.
+Supplied 220 ml candle reference.
+Sources H1 · P1
+
+DEVELOPMENT
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+04
+The first shared script discussions
+Claude Code's first board proposal placed the camera at a child's height in an old Baku
+courtyard and treated the father through hands, clothing and objects. It proposed a
+progression from afternoon to evening and made the pomegranate the connective object.
+A later update proposed a cat and a contrast between domestic quiet and distant city
+noise.
+Codex proposed a separate short structure in which the pomegranate passed from the
+father's hands into childhood and adult memory. That response called itself a distinct
+alternative and acknowledged Claude's prior proposal. A joint pause then put the video
+behind the other two nominations. The board resumed screenplay work in mid-November.
+These discussions contain ideas that survive in the final film and ideas that were
+developed for other versions. The old courtyard, intimate gestures and fruit remain. The
+Grand Prix, a full evening in the courtyard and the longer episodic atmosphere were
+possibilities at this stage.
+Sources H1 · VIDEO-R001 to VIDEO-R003
+
+DEVELOPMENT
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+05
+The cat was a directing decision
+In the Hackathon screenplay chat Basil asked to develop a black cat crossing that could
+cover the entire screen. His example went from daylight Baku to Baku nightlife, with bars,
+voices and people cheering. The requested device was already specific enough to test
+visually: a moving body, full occlusion, and a changed scene revealed as the animal
+clears the lens.
+Claude Code's second script recorded the cat-transition route relayed by PERZIVAL1967
+and expanded it into a commercial narrative. The two humans discussed the plot and its
+direction. The final role credits are clearest when they identify those decisions and then
+name the agent work that implemented them.
+The cat's dramatic job changed during production. In the longer idea it could signal
+evening arriving in the same city. In the short film the crossing bridges childhood and
+adulthood. Keeping the animal's direction through the cut helps the spectator accept the
+much larger jump in time.
+Sources H1 · VIDEO-R004 · C1
+
+DEVELOPMENT
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+06
+The jump to a 30-second story
+The screenplay chat asked for alternatives in screenplay form. It produced «Одно
+зерно», «Пока горит окно» and «Дом с собой». Basil selected the second for previs.
+This selection is the point at which the longer Baku material and the specific final-film line
+can be separated in the archive.
+The short treatment keeps the gift, an inhalation, the cat and a later room. It assigns a
+distinct function to each image. The first establishes the people and their setting; the
+second gives the fruit emotional weight; the cat moves the viewer through time; the
+apartment ties scent to memory. A separate dedication card eventually takes the final
+runtime to 35 seconds.
+Two versions with related imagery matter to this report. The scene-generation tests were
+drawn from a longer scenario and should have their own edit and prompt evidence. The
+30-second Blender previs of «Пока горит окно» became the staging basis for the later
+35-second illustrated film.
+Blender v03 shot reference for the short treatment.
+Sources C1 · P2
+
+GENERATION TESTS
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+07
+The Lovart production route
+The Hackathon team identified Lovart as a practical generation route through an existing
+subscription. Claude Code recorded the connector and a production workflow on the
+board. Basil asked Codex to set up the connection, generate the sequence from the
+longer treatment and stitch the available clips into a separate review copy.
+The development vault preserves scene requests, job files and some output clips.
+Requests are useful evidence about the intended changes in character, shot and sound.
+The trial outputs and the user's screening notes are better evidence of what the model
+actually rendered. Together those sources reveal why a timed prompt needs an
+independent continuity review.
+Seven scene prompts and three selected output frames were recovered into the
+submission workspace. The prompts preserve specific instructions about recurring cast,
+wardrobe, cat, tray, fruit and courtyard. The existence of seven prompts does not imply
+seven usable outputs or that those images were composited into the final Art Deco cut.
+Still from the Lovart trial evidence.
+Sources H1 · VIDEO-R005 · C2 · H3
+
+GENERATION TESTS
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+08
+The physical problems in the first
+screening
+Basil identified two apparently left hands, with one seeming to emerge into the shot
+without a believable connection to the father. He also saw a break in fruit continuity: an
+action that looked like splitting a half into quarters was followed by an intact half available
+for the girl to pick up. These problems concern ownership, topology and contact across
+cuts.
+The efficient repair proposed in the conversation was to keep the intact half and change
+the incompatible action where possible. A new generation can propagate further
+inconsistencies across otherwise usable clips. A stable prop state gives the editor fewer
+continuity variables to reconcile.
+The cat had a separate editorial fault. A visible area at the bottom right exposed the
+background swap. Basil suggested enlarging the cat until it covered the screen
+completely, then timing the scene change while the frame was held in darkness. That
+concrete instruction became a criterion for later Blender and vector versions.
+Earlier generation evidence for the courtyard and transition sequence.
+Sources C2 · H3
+
+BLENDER PREVIS
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+09
+What a schematic previs must
+communicate
+Basil requested simple Blender schematics for later generation. The resulting figures
+were intentionally rudimentary. Their task was to locate the head, shoulders and hands
+and make screen direction visible. The reference clip therefore encoded geometry,
+relationships and timings before it attempted finished performance or texture.
+Review tightened three points. The father gives the girl a single half of the fruit. She raises
+and smells it slowly. The cat travels along a plausible physical route, initially proposed
+around the back table or shelf. The later woman remains seen from behind, as Basil
+explicitly requested.
+Using a dummy model makes rapid blocking practical. It makes appearance references
+and model instructions especially important. A downstream renderer can preserve shapes
+that the director intended only as placeholders; the recovered Dreamina discussion
+documents exactly that failure.
+An early schematic preview of the short film.
+Sources C3 · C4 · P2
+
+BLENDER PREVIS
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+10
+Blender v03 as a timed brief
+The v03 register divides the short into four intervals. In the first three seconds a 34 mm
+setup establishes two tables and the transfer begins. From 3 to about 12.4 seconds the
+camera is closer, the daughter receives the half, inhales and turns. The geometry of the
+second table stays meaningful when the cat enters.
+From about 12.4 to 17.5 seconds the cat crosses left to right along the farther table. The
+camera approaches its edge and drops. After the tail clears the lens, the adult daughter
+appears with her back toward the viewer. The camera moves toward the still life, stopping
+at about 25.8 seconds; the v03 title begins at 27 seconds.
+The v03 numbers describe the documented reference cut. Later work adds a separate
+end card at 30 seconds and refines pose and framing. Keeping the shot register version
+visible makes the original generator timing understandable without imposing those exact
+numbers on later changes.
+v03 frames anchor the timed directing brief.
+Sources C4 · P2
+
+DREAMINA HANDOFF
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+11
+Three clips or one clip
+The first handoff split the script into three coordinated prompts, each with a matching
+Blender clip. The shot lengths were 298, 194 and 228 frames at 24 fps. A website taking
+whole seconds could be asked for 13, 9 and 10 seconds, with surplus output held at the
+end and trimmed in assembly.
+Basil then asked for one generation prompt. In a single run the whole Blender preview
+carries the cut, screen direction and rhythm. This reduces the number of invisible joins
+between generated clips. It also makes a wrong interpretation of the directing reference
+more costly, since the entire sequence may need regenerating.
+The later 30-second Flash prompt used three reference slots in its intended plan: Blender
+motion and placement, the 220 ml candle appearance, and Baku courtyard character.
+The handoff kept the clean logo available for finishing. Evidence for the intended
+attachment list and evidence from the actual website run have different levels of certainty.
+Sources C4 · C5 · P3
+
+DREAMINA HANDOFF
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+12
+The command-line attempt and the
+recovered exports
+A Codex chat prepared a one-run 30-second, 16:9, 720p Dreamina attempt. It reported
+the CLI was signed in but canvas setup could not connect and the retry through the
+configured proxy timed out. That attempt produced no submitted job.
+Later intake recovered two separate Dreamina downloads dated November 22. Export
+5050 runs 30.08 seconds. Export 8658 runs 30.00 seconds. Both are 1280 × 720 with
+H.264 video and AAC audio. The archive verified the copies by SHA-256 and decoded
+both completely.
+The 5050 filename starts with the same words as the saved 30-second Flash prompt. The
+8658 filename matches the opening of the repair prompt in the Dreamina chat. These
+matches support a connection between the prompt discussions and the downloaded
+takes. They leave the selected model, full submitted text, actual attachments and job
+identifiers open.
+Run identity. 5050 and 8658 are identifiers visible in filenames. The archive does not
+establish that they are provider job IDs.
+Sources C5 · C6 · P3
+
+DREAMINA HANDOFF
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+13
+When the model rendered the
+placeholders
+Basil's Dreamina screening message names three defects. The model rendered the
+human blocks as literal wood. The table in the opening was too high for the scene and the
+family needed to sit naturally beside it. The cat's rear geometry and motion looked
+implausible.
+The repair prompt translates each complaint into an action. It calls the blocks human
+placeholders and requests consistent anatomically plausible people. It gives the dining
+table a target scale of about 75 cm. It requests a complete replacement of the cat with
+proportionate hindquarters, a natural tail and believable motion.
+The conversation also records a hard 2,000-character field limit, repeated after earlier
+shortening attempts. This is an editing problem as much as a prompting problem.
+Preserve overrides that explain how to interpret the input, then timeline and identity
+constraints. Camera adjectives can be compressed once the intended photographic style
+is clear.
+Sources C6 · P3 · Prompt plates
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+14
+The shift to a modeled cartoon
+Basil asked to stop trying to make a Dreamina output the production master and to make
+an original cartoon edition in Blender. The brief called for Azerbaijani characters,
+product-specific candle lighting, and a solid pomegranate build. It also asked for a
+practical plan for sourcing or building the people.
+The Blender production used original characters and a modeled cat. Later revisions
+introduced articulated fingers, sculpted heads, eyes and hair, staged fruit contacts, and a
+modulated light tied to the candle. The courtyard gained an oak and stronger directional
+light, and the apartment gained glazing, walnut millwork and a marble console.
+The packed v07 scene was pushed to the shared Hackathon repo while rendering
+continued. It is evidence of an independent, editable production branch. Its existence also
+explains why the illustrated 2D version could reuse decisions about the route of the cat,
+the exchange of the fruit and the adult scene.
+Blender cartoon review frame from the late product approach.
+Sources C7 · P2 · H4
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+15
+The Art Deco brief
+Basil supplied two Art Deco poster references and asked for an illustrated 2D video based
+on the existing Smoky Pomegranate scenes. When asked which version to develop, he
+selected the latest 35-second «Пока горит окно» structure with the father, daughter, cat
+and dedication.
+The poster references provided a way to unify warm reds, dark blue-green areas,
+geometric frames and carefully shaped profiles. The final treatment builds its own action
+and sets around those principles. Flat areas of colour create clean silhouettes and make
+the cat wipe practical to control.
+The studio rendered the illustrated edition with Python, using vector building blocks and
+the recorded soundtrack. The initial pass established the new approach. Basil then asked
+for more convincing motion, set detail and stronger recognition of the original candle.
+Those requests can be tracked directly into later review frames.
+One of the user-supplied style references.
+Sources C8 · P2
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+16
+Making the gift credible
+The father initiates the movement. The girl reaches, supports the fruit and raises it to
+smell it. Each beat needs its own pose. If the father releases before the load has a
+destination, the prop looks weightless. If the girl lifts immediately after touching it, the
+gesture reads like a pickup rather than an exchange between two people.
+The Art Deco revisions used hip pivots, linked shoulders, fixed-length arm segments and
+a brief shared grip. The wrists and hands follow the fruit as it settles and arcs upward. The
+daughter pauses at her nose before turning. The project log records an arm reachability
+check across 298 courtyard frames.
+The engineering check establishes that the intended joints can meet their targets through
+the sampled range. The visual review tests whether the movement feels natural and
+emotionally legible. Those are separate checks and the conversation uses both.
+v04 review sheet includes the fruit handoff and inhale.
+Sources C8 · P2
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+17
+Drawing a believable pomegranate
+The earlier seed clusters looked like evenly spaced circles. Basil asked for a more
+convincing internal structure and for the two pieces to differ. The renderer responded with
+distinct rind and membrane maps. Each segmented chamber packs individual
+pressure-shaped arils against irregular walls rather than using identical decorative dots.
+The variation affects narrative continuity as well as appearance. One half belongs on the
+tray while the other is offered. Each should retain an identity as the pose changes. A
+consistent solid shape also gives the hands a continuous edge to support.
+The image does not have to imitate a product photograph at all times. Pattern and
+exaggeration remain part of the Art Deco style. The design problem is to make the
+silhouette and texture stylized while preserving anatomy the viewer can recognize during
+the exchange.
+Public v05 at 28.2 seconds. The cut fruit, faceted glass and separate lid.
+Sources C8 · P2
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+18
+A cut hidden inside the cat
+The early illustration made the cat too thin to cover the image convincingly. Basil
+described the resulting black mark as disconnected from the animal's actual movement.
+The revised version drives the camera toward the flank while preserving its trajectory. The
+body grows into the foreground, covers the image, and continues across the hidden cut.
+A tail that clears the frame at a coherent speed makes the transition feel like a single
+pass. Motion on the table also needs planted paws. The v04 check measured negligible
+horizontal stance drift over 163 consecutive paw samples and inspected both sides of the
+set change for complete silhouette coverage.
+The mechanism can be checked by scrubbing three intervals: the approach while the
+scene is still visible, the consecutive covered frames around the cut, and the exit after the
+adult setting appears. These tests correspond closely to the bottom-right leak reported in
+the first Lovart review.
+v04 frames record the approach into the cut and the room after the wipe.
+Sources C2 · C8 · P2
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+19
+A courtyard with usable geography
+The first Art Deco pass established the stage but left too much empty foreground. Basil
+asked for furniture and objects, and identified a visual layering error where wall ornament
+cut through the potted plants. The revision used benches, woven baskets, a rug and tiled
+flooring, and moved the ornament behind the vegetation.
+The set has a directing role. The foreground supports the exchange, while the second
+table and its objects establish a route for the cat. Clear foreground, middle and back
+planes let the camera follow that route without inventing new geography in the close-up.
+The photographic Baku references were local appearance aids. The files were chosen for
+courtyard scale, limestone and window construction. The studio notes warn that one
+location photograph shows a light-coloured cat. That image supplies architectural
+information for a brief that calls for a black animal.
+Public v05 at 1.1 seconds. The floor and stands establish the courtyard and the cat's route.
+Sources C8 · P1 · P3
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+20
+The adult reveal and fragrance
+close-up
+The short screenplay and previs keep the adult woman's face out of view. The decision
+helps the actor read as the older daughter through narrative continuity rather than a facial
+match. The window and the framed Baku print let the new room retain a trace of the
+courtyard.
+Basil asked for a more elegant full figure and for the scene to sell the product. v05 gives
+her a peacock-coloured, bias-cut evening gown with a draped open back, gold piping and
+a low pinned chignon. The camera holds her silhouette before moving toward the candle,
+fruit and detached lid.
+The first illustrated treatment incorporated isolated artwork from the product photo. After
+Basil asked for an illustrated lookalike, the project shifted to drawn glass facets, a shaped
+label, a ribbed lid, wax and a small lit flame. Those recognizable details let the candle
+read as part of the same illustrated world.
+Public v05 at 20.0 seconds. The rear-view reveal frames the gown and window.
+Sources C8 · P2 · P1
+
+CONTROLLED ANIMATION
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+21
+Paper texture from v04 to v06
+The kraft-paper direction emerged from Basil's review. The first textured version used a
+fixed grain layer to support the printed-poster look. Basil then asked for the texture to
+move naturally with the painted shapes. v05 introduced shape-local print texture and a
+translation test checked that a shifted sample retained its texture registration.
+That fix produced another practical issue: repeating fills can reveal a seam or an obvious
+pattern at normal viewing size. v06 preserves the shot timings and framing while
+replacing tiled per-object fills with clean vector paint and sparse nonrepeating marks in
+set coordinates.
+The public film in the submission repo is v05. The local Previs register separately records
+v06. This version boundary matters when a reader compares screenshots or uses the
+technical verification notes. Creative approval of the later local texture revision remains
+open in the studio log.
+v06 local review, after the texture seam correction.
+Sources C8 · P2 · H2
+
+FINISHING
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+22
+Sound and final signature
+The Art Deco renderer uses the existing v03 audio asset and pads the video to 35
+seconds. The Foley script synthesizes cues such as a fruit contact, breath, footfalls and a
+chime. The studio notes identify local Microsoft Irina Desktop synthesis for the line. The
+build script provides a more concrete source record for effects than a general recollection
+about the soundtrack.
+The archived process document records an unresolved question about permission to
+transfer the derived speech. It also records that the soundtrack assembly script identifies
+no separate music track. A full decode establishes that the audio stream works. It does
+not establish the rights status of every audible element.
+The final five seconds are reserved for the official wordmark, fragrance name and
+Russian dedication. Keeping this hold separate from the adult scene gives the label
+close-up time to register before the formal sign-off.
+Sources P2 · P4 · H2
+
+FINISHING
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+23
+Render and acceptance checks
+The public cut is the 35-second Art Deco v05 MP4. The documented render is 1280 × 720
+at 24 fps, with 840 frames and AAC audio. The studio reviewed decoded render frames
+and tested the file end to end. The repo copy was compared with the completed source
+export by hash.
+Review targeted the points where the story could fail on screen: hands and fruit during the
+exchange, the cat's ground contact and total coverage of the lens, fidelity to the 220 ml
+product, and the switch from the last narrative image to the brand card.
+Some earlier exports shared a version name while an encode or revision was still in flight.
+The public repo handoff explicitly selected the completed v05 export. That is why the
+published commit and its embedded contact sheet make stronger references than a
+filename alone.
+Contact sheet committed alongside the public v05 film.
+Sources P2 · H2
+
+FINISHING
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+24
+The handoff and the credits
+Claude Code's VIDEO-R007 explained that the official form expected two downloadable
+cloud links, one for the film and one for the process document, plus an optional jury
+comment. The repository is a useful production and sharing package. The board's form
+instructions make cloud accessibility a separate condition.
+Basil supplied the public repository. The team packaged the completed v05 video, a
+process DOCX, the final contact sheet, and a retrospective of the experiments.
+Recovered Dreamina files were archived in Previs; the public handoff inventories their
+role. The available records confirm the GitHub handoff. Cloud submission remains
+unverified.
+The credits were revised after Basil asked that human direction be represented
+accurately. Basil and PERZIVAL1967 are the creators and project leads. The story,
+feedback and creative choices were theirs. The production record describes how Codex
+and Claude Code developed materials and executed those decisions under their
+guidance.
+Sources C9 · H1 VIDEO-R007 · H2
+
+FINISHING
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+25
+Reference intake and provenance
+Fifteen supplied downloads were checked against the existing archive. Two poster
+screenshots arrived under two names each and matched the stored originals by
+SHA-256. Four product photos likewise matched the files already stored in the TONKA
+task directory. These results prevent accidental counting of aliases as additional source
+images.
+The archive retained the four additional logo rasters in black and white, JPG and PNG, as
+received. It also preserved a JFIF depicting dried rosebuds. Its source and any use in
+actual generation remain unconfirmed. The image fits the kind of detail the screenplay
+mentions, which is weaker evidence than a recorded attachment.
+The two recovered Dreamina outputs complete the intake. Their local archival role and
+technical properties are known. A misleading retrospective would identify the filename
+match as proof of exact model settings, or imply that a generative take supplied the film's
+final animation.
+Archived rosebud reference. Source and generation use unconfirmed.
+Sources P1 · P3 · H2
+
+ANALYSIS
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+26
+What this production established
+The decisive continuity constraints were physical. The fruit had to be the same half. The
+child's hands needed to bear its weight before release. The cat needed a continuous path
+and a moment of complete coverage. A model could satisfy the brief's surface style while
+failing any of these actions, which is what made the test screenings useful.
+The strong prompts made an input's job explicit. A video carries camera and timing. A
+courtyard photo supplies materials and architectural scale. A product photo supplies
+shape and finish. A rule about the cat's silhouette governs where an edit can occur. A
+single request for greater realism would leave all four decisions ambiguous.
+The controlled version put those constraints into editable assets. Human feedback
+determined when they were convincing enough and how the illustration should look. The
+result preserves the core directing idea from the early chats through the finished cut, with
+a record of the tests that changed the implementation.
+Sources C1–C9 · H1–H4 · P1–P4
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+27
+One run as a directing brief
+The prompt gives the Blender reference authority over motion, then assigns the
+appearance of the product and setting to two images. The body is organized into timed
+action and the final visual restrictions.
+Saved full Flash draft. Export 5050 matches its opening in the download filename.
+Generate one 30-second live-action film, 16:9, at the original pace of @Video1. @Video1 is the
+mandatory Blender directing reference for the whole film. Follow its shot order, camera height,
+framing, hand contacts, screen direction, hidden cut and final hold. Translate its blocks into people
+and tangible objects. Use @Image1 for the exact closed candle and @Image2 for the lived-in
+Baku courtyard. Keep the performance small enough to feel like something a daughter actually
+remembers.
+Begin at a child's eye level in warm daylight on the threshold of an old Baku home. Father on the
+left, daughter on the right. One half of a ripe pomegranate rests on worn copper. He offers its mate
+with the wet seeds facing up. Tea in a small pear-shaped glass, a dried rose and saffron sit off to
+one side. Establish the long wooden worktable behind them. At 00:03 move closer on the same
+side of the table. Her palms slide underneath the fruit. Hold for the beat when all three hands
+share its weight. Only then does his hand loosen and withdraw. The other half stays on the tray. At
+00:06 she lifts the fruit to her nose, breathes in once and lingers. A paw taps wood. She lowers the
+fruit a little and turns toward the sound.
+At 00:12.4 follow her gaze to a black cat walking left to right along the back worktable. Its paws
+plant on the boards as it passes the clay pots. Lower the camera to the near edge. The cat's flank
+brushes the lens. At 00:17.5, the exact wipe in @Video1, black fur covers all four corners. Cut to
+the other city under that coverage. Continue the same stride to the right. As the tail clears, reveal
+a modern room at blue hour.
+The girl is now a grown woman standing at the window. Photograph her entirely from behind.
+Keep her anonymous, shoulders outlined by the evening sky, city lights beyond the glass. She
+stays facing outside as the camera drifts toward the table behind her. An amber lamp picks out
+familiar scratches in the copper tray, the opened fruit, a fine reflection on the wine glass, and the
+closed Smoky Pomegranate candle. Match @Image1 throughout: tall garnet diamond-cut glass,
+dark burgundy lid, brushed-gold front plaque. A spoon rings once. At 00:21.6, in quiet Russian
+voiceover the adult daughter says, «Иногда целый вечер возвращается с одним запахом». Let
+the last word fall into room tone. At 00:25.8 settle into the still composition shown in @Video1.
+Keep the lower centre and upper right clear for the dedication and official wordmark in the edit.
+Source P3 · FLASH_2_5_ONE_PROMPT.txt
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+28
+The Dreamina repair prompt
+The three concrete corrections target placeholder appearance, geometry at the table and
+the cat. The chat then asks for compression to the website's 2,000-character limit. The
+closing instruction reinforces the meaning of the Blender input.
+Final draft visible in chat. Export 8658 matches the opening phrase.
+Regenerate the ENTIRE video as an ultra-photorealistic, live-action cinematic film. Use the
+Blender animation ONLY for camera movements, positioning, blocking, and scene composition.
+Follow the original screenplay precisely.
+1. HUMAN CHARACTERS: The wooden bricks in the Blender reference are HUMAN
+PLACEHOLDERS, NOT actual wooden objects. Replace them entirely with realistic people. The
+father and daughter must have natural faces, detailed skin, realistic hair, appropriate clothing,
+believable emotions, and anatomically correct movements. Maintain consistent appearances
+throughout.
+2. TABLE: The table in the opening frames is far too high. Replace it with a realistically sized
+dining table (75 cm tall). The father and daughter must sit naturally on chairs BESIDE the table,
+with correct proportions, posture, and physical interactions.
+3. CAT: Completely recreate the unrealistic cat. Fix its deformed rear and eliminate all abnormal
+protrusions. Generate a photorealistic domestic cat with anatomically correct proportions, detailed
+fur, natural tail, and realistic feline movements.
+4. CINEMATOGRAPHY: Make the video indistinguishable from real footage shot on professional
+cinema cameras. Use natural lighting, realistic shadows, authentic skin textures, cinematic color
+grading, shallow depth of field, 35mm/50mm lenses, and 24 fps motion. Include emotional
+close-ups, realistic acting, smooth camera movements, and seamless transitions.
+5. CONTINUITY: Follow the screenplay's exact narrative, actions, emotions, and chronology.
+Maintain consistent characters, clothing, environments, and spatial relationships.
+AVOID: Wooden figures, CGI appearance, plastic skin, anatomical errors, oversized furniture,
+distorted animals, floating objects, clipping, morphing, or inconsistent faces.
+FINAL GOAL: Completely regenerate the sequence as a high-budget photorealistic feature film.
+Blender defines BLOCKING, NOT VISUAL STYLE.
+Source C6 · Write Dreamina Video Prompt
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+29
+1 · The weight of the gift
+This handoff gives one segment its own Blender timing reference and directs attention to
+observable actions. It belongs to the three-clip assembly route.
+Prepared Dreamina handoff
+Upload FILM_ref_v03_01.mp4, then 01-baku-courtyard.jpg (Image 1), then 02-baku-limestone.jpg
+(Image 2).
+Follow @Video1 exactly from its first frame through its last action. Render the people as ordinary
+live-action subjects. Use @Image1 for the warmth and lived-in scale of an old Baku courtyard and
+@Image2 for the pale, uneven limestone. Keep the two tables and both people where the video
+places them. The feeling is the child's concentration on a small gift. No one performs for the
+camera.
+0-3 seconds. Child-height view from the shade of the threshold. Father on the left in dark,
+softened cotton sleeves, his daughter on the right. One pomegranate half rests cut side up on a
+worn copper tray. He holds its mate. The fruit is heavy for her hands. A pear-shaped glass of dark
+tea, a dried rose and a few strands of saffron are small details at the edge. The second wooden
+worktable is visible beyond them against the stone. A narrow patch of late sun catches the juice
+between the seeds.
+3-6 seconds. Take the closer camera position in @Video1 on the same side of the table. Father
+extends his half, cut surface up. Her two hands arrive from below. All three hands touch the same
+half for a beat. Her palms settle under its weight before his thumb loosens and his hand draws
+back. The other half stays exactly where it was. Give this exchange time to read.
+6-12.42 seconds. She raises the same half slowly, stops just short of her nose and takes one
+small breath. Hold through the end of the inhale. Then the soft double tap of paws on wood draws
+her attention behind the table. She lowers the fruit slightly, keeping both hands around it, and
+turns toward the sound on the video cue. Intimate location sound: sleeve brushing wood, a breath,
+then paws. Natural skin texture, quiet camera, clear hand silhouettes. Extra output time holds the
+final pose.
+Source P3 · DREAMINA_v03.md
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+30
+2 · One step between two rooms
+This handoff gives one segment its own Blender timing reference and directs attention to
+observable actions. It belongs to the three-clip assembly route.
+Prepared Dreamina handoff
+Upload FILM_ref_v03_02.mp4, then 02-baku-limestone.jpg (Image 1), then candle-220ml.jpg
+(Image 2).
+Follow @Video1 exactly, including the approach and the moment of complete occlusion.
+@Image1 gives the daylight stone its surface. @Image2 defines the single closed candle that will
+be waiting in the modern room. Treat this as one observed movement that carries a childhood
+memory into adult life.
+Start with the long wooden worktable behind the family. Its near edge and the clay pots make the
+black cat's route legible. The cat walks left to right, weight passing from one planted paw to the
+next. Keep the cat close enough to the tabletop for its contact shadow to follow the paws. Lower
+the camera as the video does. The cat has somewhere to go along the table; it simply passes very
+close to us. A few dark guard hairs catch daylight before the flank fills the entire lens.
+At about 5.08 seconds into this clip, all four corners are black fur. Cut locations under that
+coverage. Maintain the body's screen position, direction and speed through the cut. The trailing fur
+and tail clear to the right. The first clear frame already shows a modern apartment at blue hour. A
+woman stands at a broad window, seen from behind. Shoulders, dark hair and the back of her
+clothing make an anonymous silhouette. Her face stays beyond the camera's view, and the
+window reflects only evening light. In front of her, nearer to us, an amber table lamp lights the
+opened fruit, copper tray, closed candle and a wine glass. The candle is the tall partner jar: deep
+garnet diamond-cut glass, matching dark burgundy lid, rectangular brushed-gold front plaque.
+Match the photo's proportions. Hold this composition as the wooden footfalls give way to quiet
+room tone.
+Source P3 · DREAMINA_v03.md
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+31
+3 · What the scent brings back
+This handoff gives one segment its own Blender timing reference and directs attention to
+observable actions. It belongs to the three-clip assembly route.
+Prepared Dreamina handoff
+Upload FILM_ref_v03_03.mp4, then the SAME candle-220ml.jpg (Image 1). If clip 2 is already
+rendered, keep its final room composition beside the preview when checking continuity.
+Appearance uploads for this pack are real sources only.
+Follow @Video1 precisely for the opening composition, rear viewpoint, camera drift and final hold.
+Match the closed candle in @Image1 throughout. Begin in the blue-hour apartment revealed by
+the cat. The adult daughter stands with her back to us, looking at the city. Let her remain still. We
+stay behind her for every frame. The window gives her shoulders a cool outline. The warm light
+belongs to the tabletop.
+A spoon touches glass once, softly, with enough silence to hear the ring decay. At 1.1 seconds an
+adult woman says off screen, quietly and in natural Russian, as if the words have just occurred to
+her: «Иногда целый вечер возвращается с одним запахом». Let the voice carry the
+recognition. As the camera drifts closer, a narrow amber line appears on the wine glass. The
+copper has fine wear from years of handling. The seeds are damp and uneven. Keep the branded
+vessel closed, upright and stationary in its established position. Let the lamp skim the cut facets
+and preserve the dark lid and the gold plaque from the photograph. The objects share one pool of
+light.
+Settle the camera by 5.3 seconds into this clip. Hold the final still life, exposure and focus through
+the end. Deliver clean picture with space at lower centre and upper right. The title and official logo
+will be composited in the edit.
+Source P3 · DREAMINA_v03.md
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+32
+Lovart test 01
+The opening uses child-height observation and a controlled set of recurring objects.
+Continuity starts with naming the cast, materials and props.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Warm late-afternoon
+gold, dusty ochre, copper, and sandy limestone. [00-05s] Тяжесть плода. Деталь, 85 мм; стол
+на нижней трети, гранат в центре. Первые 2 с папины руки опускают плод; затем пальцы
+отпускают его. Поднос слегка отзывается, плод остаётся неподвижен. Статика у края стола.
+Косой тёплый свет слева выявляет медь и кожуру. Sound cue: Глухой удар о медь, двор
+вдали. Склейка после остановки рук.
+[05-09s] Трещина. Макро, 100 мм; основание граната по диагонали. На уже существующей
+трещине собирается капля. На последней секунде она тяжелеет, но ещё держится. Очень
+медленное приближение. Фон мягкий, зерно плёнки едва заметно. Sound cue: Тихий шорох
+кожицы. Без музыки; прямая склейка к рукам.
+[09-15s] Папа раскрывает гранат. Крупный; две руки по сторонам, трещина между ними.
+Большие пальцы входят в трещину. Две половины расходятся в стороны; сок падает на
+поднос. Не показывать невозможное мгновенное раскрытие. Статика, 50 мм, чуть выше
+стола. Тёмный рукав неизменен. Sound cue: Влажный хруст. ЗК начинается на 11 с: «Папа
+умел выбирать гранаты».
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Archived output still from this Lovart take.
+Source H3 · Сцена 01
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+33
+Lovart test 02
+The timed beat list breaks the longer film into actions and cuts. Keep the identity and state
+of the fruit stable across adjacent outputs.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Warm late-afternoon
+gold, dusty ochre, copper, and sandy limestone. [00-05s] Первое зерно. Деталь; зерно в правой
+нижней трети. Зерно катится по меди. Детский палец входит слева, останавливает его.
+Красный след остаётся на пальце. Статика, 85 мм. Руки отца уже вне кадра. Sound cue:
+Продолжение ЗК: «Этот уже не помещался в своей кожуре». Затихание голоса до 20 с.
+[05-10s] Лучшая половина. ИНТ. КУХНЯ. Средний на уровне ребёнка; папа слева, дочь
+справа. Тот же поднос на кухонном столе. Папа разворачивает более полную половину к
+дочери и подвигает ей. Она замечает жест прежде, чем берёт плод. 35 мм, без движения.
+Лица выше верхней границы; тёплый свет окна слева. Sound cue: Шорох меди по дереву.
+Звук двора становится глуше. Склейка на взгляде вниз.
+[10-15s] Тепло ладоней. Крупный; детские ладони чашей, гранат в центре. Девочка
+поднимает половину на несколько сантиметров и держит. Никакого сжатия: зёрна остаются
+целыми. 50 мм, неподвижно. Фон - ткань платья приглушённой охры. Sound cue: Дыхание и
+тишина кухни. В последние полсекунды заранее слышна струя чая.
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Archived output still from this Lovart take.
+Source H3 · Сцена 02
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+34
+Lovart test 03
+The courtyard and cat sequence shows how the original longer experiment names spatial
+anchors and screen direction.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Warm late-afternoon
+gold, dusty ochre, copper, and sandy limestone. [00-05s] Чай и роза. Деталь; армуду слева,
+сухая роза и специи справа на заднем плане. Чай наполняет стакан; струя прекращается на
+33 с. Пар проходит через полосу света. Роза сухая, не букет. 85 мм; небольшой перевод
+резкости от поверхности чая к блюдцу, без панорамы. Sound cue: Льющийся чай, затем
+касание ложки. Никакой рекламной демонстрации ингредиентов.
+[05-09s] Окно и кот. Средний; окно справа, поднос в переднем плане слева. Дочь остаётся
+за столом. На широком внешнем парапете появляется чёрный кот. Он идёт слева направо.
+Парапет связывает окно с камерой следующего плана. 35 мм; короткий плавный перевод
+внимания к окну. Камера остаётся внутри у открытой створки. Sound cue: Шаги мягких лап,
+ложка звенит. Склейка по направлению движения.
+[09-12s] Взгляд назад. НАТ. ПАРАПЕТ. Средний низкий; кот слева, окно в глубине справа.
+Кот останавливается, разворачивает только голову к девочке, выдерживает взгляд, снова
+смотрит по ходу движения. Тело не разворачивается. 50 мм, статика на высоте парапета.
+Дневной свет, мягкий контур шерсти. Sound cue: Кухонный звон слышен из окна. Без
+мяуканья и музыкального акцента.
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Source H3 · Сцена 03
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+35
+Lovart test 04
+This scene places the background change inside the cat's period of total coverage. Basil
+later identified the lower-right gap as the defect that exposed the edit.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Preserve courtyard
+geometry: worn low limestone window parapet, simple dark wood casement, arch in background,
+cool dusk with warm windows after cat crosses. Critical edit: black fur occludes the entire lens,
+hide instant hard cut in full black, retain fixed matching viewpoint and continuous same-direction
+tail motion as it clears to reveal same courtyard at blue dusk. No dissolve. [00-04s] Полное
+перекрытие. Крупный переходный план; путь кота вплотную к линзе. 42-43,5: плечо входит
+слева; 43,5-44: шерсть закрывает весь экран; 44-44,5: полное перекрытие; 44,5-46: корпус и
+хвост уходят вправо, открывая вечер. Камера закреплена. Два совпадающих плана: день и
+вечер. Склейка на 44,25 с в полной черноте. Масштаб кота не меняется. Sound cue: Звон
+ложки сохраняется через склейку. Городские голоса вводятся мягко после 44,5 с.
+[04-09s] Тот же двор вечером. Общий; окно справа, арка слева, пустой парапет впереди.
+Хвост уже ушёл. Зритель узнаёт точное расположение стены и окна. За стеклом горит
+тёплый свет; двор в сизых сумерках. 35 мм, неподвижно. Геометрия совпадает с дневным
+опорным кадром. Никаких новых домов. Sound cue: Ветер и приглушённый смех из арки.
+Дать секунду на узнавание смены времени.
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Archived output still from this Lovart take.
+Source H3 · Сцена 04
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+36
+Lovart test 05
+The longer narrative moves beyond the compact final treatment. Timed location sound
+and the geometry of the arch are prompts for this earlier sequence.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Preserve courtyard
+geometry: worn low limestone window parapet, simple dark wood casement, arch in background,
+cool dusk with warm windows after cat crosses. [00-06s] Жизнь за аркой. Среднеобщий через
+арку; бар в глубине, каменная стена занимает край. Три-четыре взрослых смеются; двое
+поднимают бокалы, один делает глоток. Короткое приветствие без разборчивых слов. Мы
+не входим в бар. 50 мм, статика. Тёплые лампы, без неоновой рекламы, вывесок и
+узнаваемых лиц. Sound cue: Один всплеск смеха и звон стекла. Не перекрывать
+следующую домашнюю ложку.
+[06-10s] Поворот домой. Средний низкий; кот внизу справа, домашняя дверь в глубине. Кот
+сворачивает к дому и выходит из кадра. В открытой двери виден тёплый пол, а не продукт.
+Этот ход завершает роль кота. 35 мм, короткая панорама вправо до двери, затем
+остановка. Sound cue: Ложка о стакан слышна ближе; бар отступает. Склейка на затухании
+звона.
+[10-15s] Мягкий дым. Деталь; край жаровни внизу слева, камень заполняет фон. Угли тлеют,
+без высокого пламени. Тонкая струя дыма поднимается и распускается вдоль стены. 85 мм,
+неподвижно. Тёплый боковой свет выделяет дым на сизом фоне. Sound cue: Тихий треск
+углей. Входит едва слышная протяжная музыкальная нота.
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Source H3 · Сцена 05
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+37
+Lovart test 06
+The prompt uses a sequence of timed details to bridge from literal objects into the
+sensory associations of the fragrance.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Preserve courtyard
+geometry: worn low limestone window parapet, simple dark wood casement, arch in background,
+cool dusk with warm windows after cat crosses. [00-05s] Следы папиного дня. Крупный;
+кожаная сумка слева, гранат на меди справа. На старой деревянной скамье лежит потёртая
+сумка. Поднос рядом, обе половины узнаваемы. Дым проходит только на заднем плане. 50
+мм, медленное смещение вправо на несколько сантиметров. Без изменения формы
+предметов. Sound cue: Скрип дерева, ветер. Музыка ниже бытовых звуков.
+[05-13s] Вместе во дворе. Средний со спины; папа слева, дочь справа, поднос между ними.
+Папа садится. Рукав касается её плеча. Дочь придвигает поднос к середине. Последние 3 с
+они спокойно сидят рядом. 35 мм, высота около метра, едва заметное приближение. Лица
+не появляются при движении. Sound cue: На 71 с ЗК: «В городе зажигались окна. А мы ещё
+сидели во дворе». Закончить к 78 с.
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Source H3 · Сцена 06
+
+PROMPT ARCHIVE
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+38
+Lovart test 07
+The closing request completes the longer experiment. Finishing the later illustrated cut
+required its own product framing and end card.
+Recorded as sent to Seedance 2.0 during the Lovart experiment.
+Photorealistic restrained 35 mm live-action short film from a child-height perspective.
+Period-neutral old Baku domestic limestone courtyard and adjoining kitchen. Same fictional father
+wearing charcoal wool, seen only by hands, sleeves or back; same fictional girl in muted ochre;
+same short-haired entirely black cat; same round worn copper tray and large naturally split dark
+wine-red pomegranate. Natural exposure, soft film grain, believable tactile motion. Follow the
+timed storyboard precisely, with hard cuts at shot boundaries and stable compositions. Generate
+quiet location sound and specified physical sounds only. No narration, music, text, titles, subtitles,
+or logos over footage. No modern skyline or landmarks. Do not copy people or cats from
+architectural reference photographs. All footage must be newly generated. Cut on identically
+placed tray and fruit halves, same scale and orientation; later room reveals unlit closed 220 ml
+Smoky Pomegranate candle matching the official photo precisely, dark burgundy faceted glass,
+real lid profile and existing gold label. No candle smoke. [00-05s] Предмет остаётся. Деталь;
+поднос и половины граната точно по центру. Тихий неподвижный план. На 82 с прямая
+склейка на тот же поднос в другом помещении. Половины сохраняют ориентацию, фон и
+свет меняются. 50 мм, одинаковые масштаб, наклон и положение подноса до и после
+склейки. Это монтаж, не превращение предметов. Sound cue: Двор затихает. Его сменяет
+комнатный фон, затем знакомая ложка.
+[05-11s] Другой город. ИНТ. КОМНАТА. Средний натюрморт; гранат впереди, свеча сбоку,
+окно в глубине. Медленный отъезд открывает обжитой стол, книгу и закрытую свечу Tonka.
+За окном другие, нейтральные дома. Взрослые руки не входят. 50 мм; короткий отъезд.
+Винное гранёное стекло и золотистая этикетка по фото партнёра. Свеча не дымит. Sound
+cue: Ложка из кухни, едва слышный отголосок папиных шагов. Музыка сходит на нет.
+Ignore voiceover cues above during generation; voiceover is added in the edit.
+Для итогового PDF от монтажёра нужны окончательный файл и таймкоды, названия
+инструментов для использованных дублей и скриншоты их настроек. Для музыки, шумов и
+голоса по отдельности укажите источник, автора, лицензию и подтверждение права
+использования. Если дорожка отсутствует, отметьте это после проверки финального
+файла.
+Source H3 · Сцена 07
+
+SOURCE REGISTER
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+39
+Chats and directing decisions
+C1 · Draft Baku video scripts
+Hackathon screenplay work. Nov 14 and 19. Cat wipe, alternative 30-second scripts, and selection
+of the second treatment.
+Open source
+C2 · Set up Loveart connection
+Nov 17. Generation setup, assembly of available clips and Basil's screening report on hands, fruit
+and cat coverage.
+Open source
+C3 · Build Baku perfume film previs
+Nov 19. Related Baku storyboard work. Its longer treatment and the short window-film treatment are
+tracked as separate versions.
+Open source
+C4 · Собрать превиз «Пока горит окно»
+Nov 19–22. Schematic intent, revised handoff, adult from behind, and website reference strategy.
+Open source
+C5 · Generate 30s Dreamina video
+Nov 22. Single-run Flash brief and the unsuccessful local CLI attempt.
+Open source
+C6 · Write Dreamina Video Prompt
+Nov 22. Placeholder, scale and cat problems, plus the 2,000-character field limit.
+Open source
+The titles are the titles displayed by Codex or ChatGPT. Chat links require access to the originating
+account and workspace.
+
+SOURCE REGISTER
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+40
+Finishing chats and repositories
+C7 · Plan Blender perfume cartoon
+Nov 22. Move to controlled original 3D production and share the packed scene.
+Open source
+C8 · Create Art Deco Pomegranate Video
+Nov 22–23. Poster references, detailed movement feedback, candle redrawing, couture direction
+and paper finish.
+Open source
+C9 · Set up AI video submission repo
+Nov 22–23. Repository package, human author credits, reference intake and Dreamina handoff.
+Open source
+H1 · Hackathon video board
+Issue 5 and its 12 comments. VIDEO-R001 through R007 cover proposals, partner materials, the
+pause, Lovart, Seedance and submission.
+Open source
+H2 · AI_VIDEO_TONKA_PERFUMES
+Public v05 package at 67985e5, corrected creator credits at e7a0d02 and recovered working
+materials at 583af72.
+Open source
+H3 · Lovart evidence · H4 · Editable Blender scene
+Seven scene requests and three trial stills in the public archive. Packed v07 Blender source in the
+shared Hackathon repo at ef509e0.
+Open source
+Hackathon review also included the nomination 3 extracts in Review message board instructions and the
+dated materials under the 03_ai_video development vault.
+
+SOURCE REGISTER
+SMOKY POMEGRANATE  /  PRODUCTION HISTORY
+41
+Local records and open evidence
+P1 · Reference records
+Previs / poka-gorit-okno / 00_raw / references.md and assets/tonka-task/MANIFEST.md. Records
+the poster, TONKA product and raster assets and the rosebud intake.
+P2 · Directing and version records
+Previs / poka-gorit-okno / 10_brief / shots.md, the video CONTEXT.md, studio PROJECT_LOG.md,
+and 20_work/review. The studio log identifies checks for each production revision.
+P3 · Dreamina handoffs and outputs
+Previs / poka-gorit-okno / 20_work / seedance. See DREAMINA_v03.md,
+FLASH_2_5_ONE_PROMPT.txt, DREAMINA_sources.md, runs.md and outputs.
+P4 · Sound build
+Previs / poka-gorit-okno / 20_work / scripts / FILM_cues_v03.py and art_deco_v05.py. Also see
+review/notes.md and the packaged process DOCX.
+Open evidence
+Actual Dreamina model and attachment settings, exact generation payloads, the rosebud photo
+source, any separate submission confirmation, and voice transfer rights remain unverified.
+The production record reflects the available archive as of 23 November 2026.
