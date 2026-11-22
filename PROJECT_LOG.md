@@ -17,3 +17,7 @@
 ### Working materials handoff
 
 - Added PRODUCTION-HANDOFF.md and linked it from README.md. Recorded TONKA assets, Art Deco references and both Dreamina tests. Originals are archived in previs. The download hashes, MP4 metadata and full decoding were checked there.
+
+### Published production history
+
+- Added the verified 41-page production history PDF. Reworked README using the digital-deanery repository as a model for the material links, production stages, key decisions and team credits. Checked local README links and the PDF hash.
