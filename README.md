@@ -1,1 +1,10 @@
-# AI_VIDEO_TONKA_PERFUMES
+# Smoky Pomegranate
+
+35-секундный ролик для TONKA PERFUMES. Во дворе Баку отец даёт дочери гранат. Спустя годы аромат свечи возвращает взрослую героиню к этому воспоминанию. Два времени соединяет проход чёрного кота перед камерой.
+
+- [Ролик в оригинальном качестве](Smoky_Pomegranate_Art_Deco_Couture_v05.mp4). MP4, 1280 × 720, 24 кадра/с.
+- [Описание процесса](Process_Smoky_Pomegranate.docx). Раскадровка, инструменты, монтаж, звуковая дорожка и запросы по сценам.
+- [Кадры финальной версии](storyboard.jpg).
+- [Промпты и кадры проб Seedance 2.0](seedance-tests/README.md).
+
+Команда PERZIVAL1967 и Basil. ИИ-агенты Claude Code и Codex. Превиз в Blender, пробы в Lovart с Seedance 2.0, финальная векторная анимация в Python.
